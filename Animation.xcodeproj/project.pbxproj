@@ -13,6 +13,8 @@
 		54126D671D6AB88A00FA0D22 /* Animation.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 54126D651D6AB88A00FA0D22 /* Animation.xcdatamodeld */; };
 		54126D691D6AB88A00FA0D22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54126D681D6AB88A00FA0D22 /* Assets.xcassets */; };
 		54126D6C1D6AB88A00FA0D22 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54126D6A1D6AB88A00FA0D22 /* LaunchScreen.storyboard */; };
+		54126D741D6AB8A300FA0D22 /* zing-mp3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 54126D731D6AB8A300FA0D22 /* zing-mp3.jpg */; };
+		5451596B1D6B39E70080A367 /* images.png in Resources */ = {isa = PBXBuildFile; fileRef = 5451596A1D6B39E70080A367 /* images.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		54126D681D6AB88A00FA0D22 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		54126D6B1D6AB88A00FA0D22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		54126D6D1D6AB88A00FA0D22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		54126D731D6AB8A300FA0D22 /* zing-mp3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "zing-mp3.jpg"; sourceTree = "<group>"; };
+		5451596A1D6B39E70080A367 /* images.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = images.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 		54126D5D1D6AB88A00FA0D22 /* Animation */ = {
 			isa = PBXGroup;
 			children = (
+				5451596A1D6B39E70080A367 /* images.png */,
+				54126D731D6AB8A300FA0D22 /* zing-mp3.jpg */,
 				54126D5E1D6AB88A00FA0D22 /* AppDelegate.swift */,
 				54126D601D6AB88A00FA0D22 /* ViewController.swift */,
 				54126D621D6AB88A00FA0D22 /* Main.storyboard */,
@@ -125,6 +131,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				54126D741D6AB8A300FA0D22 /* zing-mp3.jpg in Resources */,
+				5451596B1D6B39E70080A367 /* images.png in Resources */,
 				54126D6C1D6AB88A00FA0D22 /* LaunchScreen.storyboard in Resources */,
 				54126D691D6AB88A00FA0D22 /* Assets.xcassets in Resources */,
 				54126D641D6AB88A00FA0D22 /* Main.storyboard in Resources */,
@@ -292,6 +300,7 @@
 				54126D721D6AB88A00FA0D22 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
